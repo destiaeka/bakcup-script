@@ -1,7 +1,9 @@
 # bakcup-script
 
 nano /backupscript.sh
+
 chmod +x /backupscript.sh
+
 ./backupscript.sh
 
 crontab -e
