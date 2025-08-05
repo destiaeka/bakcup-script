@@ -1,0 +1,3 @@
+0 0 * * * /root/backupscript.sh #lokasi file backup script
+
+#melakukan backup otomatis pada jam 00.00 setiap hari
